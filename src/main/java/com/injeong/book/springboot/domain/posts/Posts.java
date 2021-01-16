@@ -11,7 +11,7 @@ import javax.persistence.*;
 @Getter
 @NoArgsConstructor //기본 생성자 자동추가 public Posts(){}
 @Entity //JPA의 어노테이션
-public class Posts {
+public class Posts extends BaseTimeEntity{
 
     @Id //Pk
     @GeneratedValue( strategy = GenerationType.IDENTITY) //Pk 생성규칙 auto_increment
