@@ -37,7 +37,7 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::        (v2.1.7.RELEASE)
 
-2021-01-17 00:12:36.062  INFO 28284 --- [    Test worker] c.i.b.s.web.IndexControllerTest          : Starting IndexControllerTest on DESKTOP-895BATD with PID 28284 (started by 정인정 in C:\GitHub\springboot-webservice)
+2021-01-17 00:12:36.062  INFO 28284 --- [    Test worker] c.i.b.s.web.IndexControllerTest          : Starting IndexControllerTest on DESKTOP-895BATD with PID 28284 (started by ij in C:\GitHub\springboot-webservice)
 2021-01-17 00:12:36.064  INFO 28284 --- [    Test worker] c.i.b.s.web.IndexControllerTest          : No active profile set, falling back to default profiles: default
 2021-01-17 00:12:37.400  INFO 28284 --- [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
 2021-01-17 00:12:37.513  INFO 28284 --- [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 99ms. Found 1 repository interfaces.
